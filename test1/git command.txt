@@ -8,3 +8,6 @@ GIT COMMANDS
 >>git checkout offcd6 index.html  >> revert to a prev versions
 >>git reset head index.html>> revert to 1st versions
 >>git checkout --index.html >> restored to latest versions
+>>git remote add origin <address>
+>>git push -u origin master
+git pull origin master --allow-unrelated-histories
