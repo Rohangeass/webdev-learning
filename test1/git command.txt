@@ -1,0 +1,10 @@
+GIT COMMANDS
+
+>>git init >> set repository
+>>git status
+>>git add . >> mark folder or files
+>>git commit -m "first commit"
+>>git log --oneline >> log of versions
+>>git checkout offcd6 index.html  >> revert to a prev versions
+>>git reset head index.html>> revert to 1st versions
+>>git checkout --index.html >> restored to latest versions
