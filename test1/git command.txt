@@ -18,3 +18,10 @@ GIT COMMANDS
 >>git branch
 >>git branch ""
 >>head poit to master if master checked out
+>>git commit -a -m "" add and commit shortcut
+>> delete branch >>git beanch -d/-D ""
+>>graph
+>>git merge "">> from master
+>>conflict>>git merge --abort
+>>vi ""
+>>edit>>and save>>:wq!
