@@ -10,4 +10,11 @@ GIT COMMANDS
 >>git checkout --index.html >> restored to latest versions
 >>git remote add origin <address>
 >>git push -u origin master
-git pull origin master --allow-unrelated-histories
+>>git rm "filename" >>remove file
+>>get dif.........get diff --staged
+>>grt reset hEAD "filename"   frm history to staged area
+>>git checkout --"filename"      staged area to workspace
+>>git ignore file
+>>git branch
+>>git branch ""
+>>head poit to master if master checked out
