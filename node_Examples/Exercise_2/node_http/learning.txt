@@ -1,1 +1,4 @@
-npm start>> to start server
+npm start>> to start server 
+express middleware
+sementic versioning
+$ npm install express --save
