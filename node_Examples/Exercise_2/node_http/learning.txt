@@ -1,4 +1,14 @@
 npm start>> to start server 
 express middleware
 sementic versioning
-$ npm install express --save
+npm install express --save
+app.use(function(req,res,next))
+Rest>> representational state transfer
+service oriented architecture>>SOA
+
+CLIENT SERVER COMMUNICATION->
+SOAP(simple object access protocol,XML) and REST(json,xml)
+REST >> stateless server
+express.router  
+mounting of an express router
+express Generator

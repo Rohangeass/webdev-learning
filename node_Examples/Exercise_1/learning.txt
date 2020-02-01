@@ -6,4 +6,5 @@ npm init
 >>syncronous vs asynchronous
 >>Error handling in nodejs
 >>node js event loop
->>
+>>HTTP protocol>>URL>>REST(Representational State Transfer)>>SOAP
+>>http module,mode path module,filesystem module of node
