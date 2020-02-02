@@ -1,0 +1,24 @@
+
+\Mongodb object id
+getTimestamp()>>returns timestamp in iso format
+BSON
+
+serverstart:
+mongod --dbpath=data//lookup internet for more details
+
+
+mongorepl commands->
+>>mongo
+>>use conFusion
+>>db
+>>db.help()
+db.dishes.insert()
+db.dishes.find()
+db.dishes.find().pretty()
+var id=new Objectid()
+id.getTimestamp()
+exit
+
+Connecting mongodb to nodejs using driver>>
+Node MongoDb driver(high level api)>>methods for insert,delete etc>>two types-callback based,promise based
+install npm mongodb --save
