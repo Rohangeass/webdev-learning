@@ -1,2 +1,7 @@
 npm install mongodb --save
 npm install assert --save
+
+callback hell->
+//node mongodb driver supports promises
+promisess>ressolve/rejected
+.then(),.catch,

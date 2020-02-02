@@ -2,10 +2,10 @@
   "name": "node-mongo",
   "version": "1.0.0",
   "description": "nodemongobd",
-  "main": "index.js",
+  "main": "index2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index2"
   },
   "author": "rohanghosh",
   "license": "ISC",
